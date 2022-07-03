@@ -1,0 +1,139 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Ecalap
+  rotate: false
+  xy: 532, 461
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Base
+  rotate: false
+  xy: 1240, 1721
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Original Method
+  rotate: false
+  xy: 1240, 1721
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Enhancement
+  rotate: false
+  xy: 268, 41
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Military
+  rotate: false
+  xy: 712, 929
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Monotheistic Religion
+  rotate: false
+  xy: 976, 1193
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Polytheistic Religion
+  rotate: false
+  xy: 976, 1193
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Founder
+  rotate: false
+  xy: 4, 4
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+UnitIcons/Founder
+  rotate: false
+  xy: 268, 305
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Founder's Frontier
+  rotate: false
+  xy: 268, 305
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Air Superiority
+  rotate: false
+  xy: 712, 1721
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Better Wayfinding
+  rotate: false
+  xy: 4, 305
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Brilliant Detonation
+  rotate: false
+  xy: 712, 1457
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Capture Master
+  rotate: false
+  xy: 4, 1277
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Civilian Assistance
+  rotate: false
+  xy: 976, 1721
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Enhanced Vision
+  rotate: false
+  xy: 4, 41
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Improved Radar
+  rotate: false
+  xy: 712, 1193
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mastery of War
+  rotate: false
+  xy: 976, 1457
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Panacea's Gift
+  rotate: false
+  xy: 4, 569
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
