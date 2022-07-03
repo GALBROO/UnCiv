@@ -57,17 +57,17 @@
 				"color": "red"
 			}
 		],
-		"gold": 420697770,
-		"culture": 6900,
+		"gold": 770,
+		"culture": 60,
 		"science": 7777,
 		"food": 4200,
 		"production": 6900,
-		"happiness": 6900,
+		"happiness": 900,
 		"greatPersonPoints": {
-			"Great Scientist": 60,
-			"Great Artist": 60,
-			"Great Merchant": 60,
-			"Great Engineer": 60
+			"Great Scientist": 30,
+			"Great Artist": 10,
+			"Great Merchant": 10,
+			"Great Engineer": 10
 		},
 		"specialistSlots": {
 			"Scientist": 5,
@@ -76,14 +76,14 @@
 			"Engineer": 5
 		},
 		"uniques": [
-			"[3] free [Founder] units appear",
+			"[2] free [Founder] units appear",
 			"[+9] population [in this city]",
-			"[+690 Culture] [in all cities]",
+			"[+60 Culture] [in all cities]",
 			"[+777 Science] [in all cities]",
 			"[+690 Production] [in all cities]",
 			"[+420 Food] [in all cities]",
-			"[+42000 Gold] [in all cities]",
-			"[+690 Happiness] [in all cities]",
+			"[+420 Gold] [in all cities]",
+			"[+69 Happiness] [in all cities]",
 			"May buy [UnHax Mode - Military] buildings for [0] [Gold] [in all cities]",
 			"May buy [UnHax Mode - Monotheistic Religion] buildings for [0] [Gold] [in this city]",
 			"May buy [UnHax Mode - Polytheistic Religion] buildings for [0] [Gold] [in this city]",
@@ -192,8 +192,8 @@
 				"starred": true
 			}
 		]
-		"cityStrength": 365,
-		"cityHealth": 3650,
+		"cityStrength": 65,
+		"cityHealth": 350,
 		"specialistSlots": {
 			"Scientist": 5,
 			"Artist": 5,
